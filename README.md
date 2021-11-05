@@ -61,4 +61,4 @@ password-generator/Assets/
     Contains all instructional reference
 
 password-generator/Develop
-    Contains all development files (html, css, js)
+    Contains all supportive files linked to html(css, js)
